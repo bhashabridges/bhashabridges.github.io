@@ -1,1 +1,1 @@
-# Website shifted to https://bhashabridges.netlify.app/
+# Website shifted to <url>https://bhashabridges.netlify.app/
