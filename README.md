@@ -1,1 +1,1 @@
-# bhashabridges.github.io
+# Website shifted to https://bhashabridges.netlify.app/
